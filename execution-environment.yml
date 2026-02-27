@@ -61,6 +61,7 @@ dependencies:
     python-daemon
     pyyaml
     six
+    packaging
     receptorctl
 additional_build_steps:
   append_base:
